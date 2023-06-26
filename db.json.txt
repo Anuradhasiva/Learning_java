@@ -8,7 +8,7 @@
     },
     {
       "id": 2,
-      "first_name": "Steve",
+      "first_name": "Anuradha",
       "last_name": "Palmer",
       "email": "steve@codingthesmartway.com"
     },
